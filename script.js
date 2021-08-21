@@ -46,5 +46,5 @@ function permainan(){
   }
   
   alert("Kamu memilih "+player+" dan komputer memilih "+computer+" maka hasilnya kamu "+hasil);
-  confirm("Apakah kamu ingin bermain lagi?");
+ 
 }
