@@ -46,5 +46,7 @@ function permainan(){
   }
   
   alert("Kamu memilih "+player+" dan komputer memilih "+computer+" maka hasilnya kamu "+hasil);
+  Location.reload();
  
+
 }
